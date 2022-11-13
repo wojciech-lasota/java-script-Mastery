@@ -1,2 +1,2 @@
 # java-script-Mastery
-My way trought java script mastery courses
+My way trought [JavaScript Mastery courses](https://www.youtube.com/c/JavaScriptMastery)
